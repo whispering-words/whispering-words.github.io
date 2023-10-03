@@ -1,0 +1,4 @@
+baseURL = 'https://whispering-words.github.io/whispering-words/'
+languageCode = 'en-us'
+title = 'Whispering Words Portfolio and Blog'
+theme = 'PaperMod'
