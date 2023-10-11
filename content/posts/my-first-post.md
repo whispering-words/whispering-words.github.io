@@ -19,9 +19,13 @@ essential techniques and tips to make the most out of these small but mighty too
 The first step to becoming a clothes peg connoisseur is selecting the right type of pegs for your needs. Clothes 
 pegs come in various materials, including plastic, wood, and metal. Consider these factors when choosing:
 
+
 a. Plastic pegs are lightweight and suitable for most fabrics. They are rust-resistant and cost-effective.
+
 b. Wooden pegs are eco-friendly and gentle on delicate fabrics. They may not be as durable as plastic or metal pegs but provide a rustic touch.
+
 c. Metal pegs are sturdy and ideal for heavy items or windy conditions. They can withstand the elements and are long-lasting.
+
 
 ## Proper Peg Placement
 
